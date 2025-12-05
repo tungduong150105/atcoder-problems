@@ -2,10 +2,21 @@ import type { data } from "../types/problem";
 
 export const AGC_DATA: data[] = [
   {
+    title: "ABC045 & ARC061",
+    value: [
+      { title: "Trapezoids", difficult: 26, link: "https://atcoder.jp/contests/abc045/tasks/abc045_a" },
+      { title: "Card Game for Three (ABC Edit)", difficult: 635, link: "https://atcoder.jp/contests/abc045/tasks/abc045_b" },
+      { title: "Many Formulas", difficult: 1089, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_a" },
+      { title: "Snuke's Coloring", difficult: 1682, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_b" },
+      { title: "Snuke's Subway Trip", difficult: 2502, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_c" },
+      { title: "Card Game for Three", difficult: 3154, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_d" },
+    ]
+  },
+  {
     title: "ABC044 & ARC060",
     value: [
-      { title: "Tak and Hotels (ABC Edit)", difficult: 64 },
-      { title: "Beautiful Strings", difficult: 270 },
+      { title: "Tak and Hotels (ABC Edit)", difficult: 64, link: "https://atcoder.jp/contests/abc044/tasks/abc044_a" },
+      { title: "Beautiful Strings", difficult: 270, link: "https://atcoder.jp/contests/abc044/tasks/abc044_b" },
       { title: "Be Together", difficult: 1583, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_a" },
       { title: "Digit Sum", difficult: 2261, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_b" },
       { title: "Tak and Hotels", difficult: 2154, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_c" },
@@ -15,12 +26,12 @@ export const AGC_DATA: data[] = [
   {
     title: "ABC043 & ARC059",
     value: [
-      { title: "Children and Candies (ABC Edit)", difficult: 75 },
-      { title: "Unhappy Hacking (ABC Edit)", difficult: 512 },
+      { title: "Children and Candies (ABC Edit)", difficult: 75, link: "https://atcoder.jp/contests/abc043/tasks/abc043_a" },
+      { title: "Unhappy Hacking (ABC Edit)", difficult: 512, link: "https://atcoder.jp/contests/abc043/tasks/abc043_b" },
       { title: "Be Together", difficult: 712, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_a" },
-      { title: "Unbalanced", difficult: 1374, status: "Accept" },
-      { title: "Children and Candies", difficult: 2189, status: "Accept" },
-      { title: "Unhappy Hacking", difficult: 2427, status: "Accept" },
+      { title: "Unbalanced", difficult: 1374, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_b" },
+      { title: "Children and Candies", difficult: 2189, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_c" },
+      { title: "Unhappy Hacking", difficult: 2427, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_d" },
     ]
   },
   {
