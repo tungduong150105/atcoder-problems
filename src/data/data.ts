@@ -29,8 +29,8 @@ export const AGC_DATA: data[] = [
       { title: "Iroha and Haiku (ABC Edition)", difficult: 89, link: "https://atcoder.jp/contests/abc042/tasks/abc042_a", status: "Accept" },
       { title: "Iroha Loves Strings (ABC Edition)", difficult: 616, link: "https://atcoder.jp/contests/abc042/tasks/abc042_b", status: "Accept" },
       { title: "Iroha's Obsession", difficult: 1174, link: "https://atcoder.jp/contests/arc058/tasks/arc058_a", status: "Accept" },
-      { title: "Iroha and a Grid", difficult: 1905, link: "https://atcoder.jp/contests/arc058/tasks/arc058_b", status: "Accept" },
-      { title: "Iroha and Haiku", difficult: 2473, link: "https://atcoder.jp/contests/arc058/tasks/arc058_c" },
+      { title: "Iroha and a Grid", difficult: 1905, link: "https://atcoder.jp/contests/arc058/tasks/arc058_b", status: "Accept", tags: ['Combinatoric'] },
+      { title: "Iroha and Haiku", difficult: 2473, link: "https://atcoder.jp/contests/arc058/tasks/arc058_c", status: "Accept", tags: ['DP'] },
       { title: "Iroha Loves Strings", difficult: 3678, link: "https://atcoder.jp/contests/arc058/tasks/arc058_d" },
     ]
   },
