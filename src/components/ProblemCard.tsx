@@ -11,8 +11,8 @@ export default function ProblemCard({ value }: ProblemProp) {
     if (rating < 1200) return "#008000";
     if (rating < 1600) return "#00c0c0";
     if (rating < 2000) return "#0000ff";
-    if (rating < 2400) return "#ff8000";
-    if (rating < 2800) return "#ffa500";
+    if (rating < 2400) return "#c0c000";
+    if (rating < 2800) return "#ff8000";
     return "#ff0000";
   }
 
