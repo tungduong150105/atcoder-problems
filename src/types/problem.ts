@@ -2,7 +2,7 @@ export type Problem = {
   title: string;
   difficult: number;
   status?: string;
-  tags?: [];
+  tags?: string[];
   link?: string;
 };
 
