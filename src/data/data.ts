@@ -1,6 +1,61 @@
 import type { data } from "../types/problem";
 
-export const AGC_DATA: data[] = [
+export const ABC_DATA: data[] = [
+  {
+    title: "ABC208",
+    value: [
+      { title: "Rolling Dice", difficult: 28, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_a" },
+      { title: "Factorial Yen Coin", difficult: 51, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_b" },
+      { title: "Fair Candy Distribution", difficult: 142, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_c" },
+      { title: "Shortest Path Queries 2", difficult: 1190, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_d" },
+      { title: "Digit Products", difficult: 2024, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_e" },
+      { title: "Cumulative Sum", difficult: 2772, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_f" },
+    ]
+  },
+  {
+    title: "ABC207",
+    value: [
+      { title: "Repression", difficult: 6, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_a" },
+      { title: "Hydrate", difficult: 98, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_b" },
+      { title: "Many Segments", difficult: 397, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_c" },
+      { title: "Congruence Points", difficult: 2074, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_d" },
+      { title: "Mod i", difficult: 1820, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_e" },
+      { title: "Tree Patrolling", difficult: 2398, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_f" },
+    ]
+  },
+  {
+    title: "ABC206",
+    value: [
+      { title: "Maxi-Buying", difficult: 5, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_a" },
+      { title: "Savings", difficult: 14, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_b" },
+      { title: "Swappable", difficult: 171, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_c" },
+      { title: "KAIBUNsyo", difficult: 879, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_d" },
+      { title: "Divide Both", difficult: 1745, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_e" },
+      { title: "Interval Game 2", difficult: 2221, status: "Accept", link: "https://atcoder.jp/contests/abc206/tasks/abc206_f" },
+    ]
+  },
+  {
+    title: "ABC205",
+    value: [
+      { title: "kcal", difficult: 6, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_a" },
+      { title: "Permutation Check", difficult: 16, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_b" },
+      { title: "POW", difficult: 63, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_c" },
+      { title: "Kth Excluded", difficult: 713, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_d" },
+      { title: "White and Black Balls", difficult: 2025, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_e" },
+      { title: "Grid and Tokens", difficult: 2088, status: "Accept", link: "https://atcoder.jp/contests/abc205/tasks/abc205_f" },
+    ]
+  },
+  {
+    title: "ABC204",
+    value: [
+      { title: "Rock-paper-scissors", difficult: 7, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_a" },
+      { title: "Nuts", difficult: 9, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_b" },
+      { title: "Tour", difficult: 629, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_c" },
+      { title: "Cooking", difficult: 832, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_d" },
+      { title: "Rush Hour 2", difficult: 1710, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_e" },
+      { title: "Hanjo 2", difficult: 2044, status: "Accept", link: "https://atcoder.jp/contests/abc204/tasks/abc204_f" },
+    ]
+  },
   {
     title: "ABC129",
     value: [
@@ -43,17 +98,6 @@ export const AGC_DATA: data[] = [
       { title: "Even Relation", difficult: 1279, status: "Accept", link: "https://atcoder.jp/contests/abc126/tasks/abc126_d" },
       { title: "1 or 2", difficult: 1340, status: "Accept", link: "https://atcoder.jp/contests/abc126/tasks/abc126_e" },
       { title: "XOR Matching", difficult: 1770, status: "Accept", link: "https://atcoder.jp/contests/abc126/tasks/abc126_f" },
-    ]
-  },
-  {
-    title: "ARC104",
-    value: [
-      { title: "Plus Minus", difficult: 13, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_a" },
-      { title: "DNA Sequence", difficult: 487, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_b" },
-      { title: "Fair Elevator", difficult: 2009, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_c" },
-      { title: "Multiset Mean", difficult: 2251, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_d" },
-      { title: "Random LIS", difficult: 2824, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_e" },
-      { title: "Visibility Sequence", difficult: 3213, status: "", link: "https://atcoder.jp/contests/arc104/tasks/arc104_f" },
     ]
   },
   {
@@ -123,3 +167,17 @@ export const AGC_DATA: data[] = [
     ],
   },
 ];
+
+export const ARC_DATA: data[] = [
+  {
+    title: "ARC104",
+    value: [
+      { title: "Plus Minus", difficult: 13, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_a" },
+      { title: "DNA Sequence", difficult: 487, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_b" },
+      { title: "Fair Elevator", difficult: 2009, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_c" },
+      { title: "Multiset Mean", difficult: 2251, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_d" },
+      { title: "Random LIS", difficult: 2824, status: "Accept", link: "https://atcoder.jp/contests/arc104/tasks/arc104_e" },
+      { title: "Visibility Sequence", difficult: 3213, status: "", link: "https://atcoder.jp/contests/arc104/tasks/arc104_f" },
+    ]
+  },
+]
