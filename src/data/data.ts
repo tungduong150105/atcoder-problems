@@ -59,10 +59,10 @@ export const AGC_DATA: data[] = [
   {
     title: "ABC046 & ARC062",
     value: [
-      { title: "AtCoDeer and Paint Cans", difficult: 26, link: "https://atcoder.jp/contests/abc046/tasks/abc046_a" },
-      { title: "Painting Balls with AtCoDeer", difficult: 633, link: "https://atcoder.jp/contests/abc046/tasks/abc046_b" },
-      { title: "AtCoDeer and Election Report", difficult: 1346, status: "", link: "https://atcoder.jp/contests/arc062/tasks/arc062_a" },
-      { title: "AtCoDeer and Rock-Paper", difficult: 1256, status: "", link: "https://atcoder.jp/contests/arc062/tasks/arc062_b" },
+      { title: "AtCoDeer and Paint Cans", difficult: 26, status: "Accept", link: "https://atcoder.jp/contests/abc046/tasks/abc046_a" },
+      { title: "Painting Balls with AtCoDeer", difficult: 633, status: "Accept", link: "https://atcoder.jp/contests/abc046/tasks/abc046_b" },
+      { title: "AtCoDeer and Election Report", difficult: 1346, status: "Accept", link: "https://atcoder.jp/contests/arc062/tasks/arc062_a" },
+      { title: "AtCoDeer and Rock-Paper", difficult: 1256, status: "Accept", link: "https://atcoder.jp/contests/arc062/tasks/arc062_b" },
       { title: "Building Cubes with AtCoDeer", difficult: 2655, status: "Accept", link: "https://atcoder.jp/contests/arc062/tasks/arc062_c" },
       { title: "Painting Graphs with AtCoDeer", difficult: 3175, status: "", link: "https://atcoder.jp/contests/arc062/tasks/arc062_d" },
     ]
@@ -70,8 +70,8 @@ export const AGC_DATA: data[] = [
   {
     title: "ABC045 & ARC061",
     value: [
-      { title: "Trapezoids", difficult: 26, link: "https://atcoder.jp/contests/abc045/tasks/abc045_a" },
-      { title: "Card Game for Three (ABC Edit)", difficult: 635, link: "https://atcoder.jp/contests/abc045/tasks/abc045_b" },
+      { title: "Trapezoids", difficult: 26, status: "Accept", link: "https://atcoder.jp/contests/abc045/tasks/abc045_a" },
+      { title: "Card Game for Three (ABC Edit)", difficult: 635, status: "Accept", link: "https://atcoder.jp/contests/abc045/tasks/abc045_b" },
       { title: "Many Formulas", difficult: 1089, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_a" },
       { title: "Snuke's Coloring", difficult: 1682, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_b" },
       { title: "Snuke's Subway Trip", difficult: 2502, status: "Accept", link: "https://atcoder.jp/contests/arc061/tasks/arc061_c" },
@@ -81,8 +81,8 @@ export const AGC_DATA: data[] = [
   {
     title: "ABC044 & ARC060",
     value: [
-      { title: "Tak and Hotels (ABC Edit)", difficult: 64, link: "https://atcoder.jp/contests/abc044/tasks/abc044_a" },
-      { title: "Beautiful Strings", difficult: 270, link: "https://atcoder.jp/contests/abc044/tasks/abc044_b" },
+      { title: "Tak and Hotels (ABC Edit)", difficult: 64, status: "Accept", link: "https://atcoder.jp/contests/abc044/tasks/abc044_a" },
+      { title: "Beautiful Strings", difficult: 270, status: "Accept", link: "https://atcoder.jp/contests/abc044/tasks/abc044_b" },
       { title: "Be Together", difficult: 1583, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_a" },
       { title: "Digit Sum", difficult: 2261, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_b" },
       { title: "Tak and Hotels", difficult: 2154, status: "Accept", link: "https://atcoder.jp/contests/arc060/tasks/arc060_c" },
@@ -92,8 +92,8 @@ export const AGC_DATA: data[] = [
   {
     title: "ABC043 & ARC059",
     value: [
-      { title: "Children and Candies (ABC Edit)", difficult: 75, link: "https://atcoder.jp/contests/abc043/tasks/abc043_a" },
-      { title: "Unhappy Hacking (ABC Edit)", difficult: 512, link: "https://atcoder.jp/contests/abc043/tasks/abc043_b" },
+      { title: "Children and Candies (ABC Edit)", difficult: 75, status: "Accept", link: "https://atcoder.jp/contests/abc043/tasks/abc043_a" },
+      { title: "Unhappy Hacking (ABC Edit)", difficult: 512, status: "Accept", link: "https://atcoder.jp/contests/abc043/tasks/abc043_b" },
       { title: "Be Together", difficult: 712, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_a" },
       { title: "Unbalanced", difficult: 1374, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_b" },
       { title: "Children and Candies", difficult: 2189, status: "Accept", link: "https://atcoder.jp/contests/arc059/tasks/arc059_c" },
