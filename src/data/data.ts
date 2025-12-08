@@ -101,6 +101,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC047 & ARC063",
+    value: [
+      { title: "Fighting over Candies", difficult: 110, status: "Accept", link: "https://atcoder.jp/contests/abc047/tasks/abc047_a" },
+      { title: "Snuke's Coloring 2 (ABC Edit)", difficult: 726, status: "Accept", link: "https://atcoder.jp/contests/abc047/tasks/abc047_b" },
+      { title: "1D Reversit", difficult: 755, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_a" },
+      { title: "An Invisible Hand", difficult: 1376, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_b" },
+      { title: "Integers on a Tree", difficult: 2198, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_c" },
+      { title: "Snuke's Coloring 2", difficult: 3175, status: "", link: "https://atcoder.jp/contests/arc063/tasks/arc063_d" },
+    ]
+  },
+  {
     title: "ABC046 & ARC062",
     value: [
       { title: "AtCoDeer and Paint Cans", difficult: 26, status: "Accept", link: "https://atcoder.jp/contests/abc046/tasks/abc046_a" },
