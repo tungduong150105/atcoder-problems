@@ -108,7 +108,7 @@ export const ABC_DATA: data[] = [
       { title: "1D Reversit", difficult: 755, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_a" },
       { title: "An Invisible Hand", difficult: 1376, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_b" },
       { title: "Integers on a Tree", difficult: 2198, status: "Accept", link: "https://atcoder.jp/contests/arc063/tasks/arc063_c" },
-      { title: "Snuke's Coloring 2", difficult: 3175, status: "", link: "https://atcoder.jp/contests/arc063/tasks/arc063_d" },
+      { title: "Snuke's Coloring 2", difficult: 3688, status: "", link: "https://atcoder.jp/contests/arc063/tasks/arc063_d" },
     ]
   },
   {
