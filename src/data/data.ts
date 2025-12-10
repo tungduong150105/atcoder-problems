@@ -101,6 +101,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC048 & ARC064",
+    value: [
+      { title: "AtCoder *** Contest", difficult: 54, status: "Accept", link: "https://atcoder.jp/contests/abc048/tasks/abc048_a" },
+      { title: "Between a and b ...", difficult: 861, status: "Accept", link: "https://atcoder.jp/contests/abc048/tasks/abc048_b" },
+      { title: "Boxes and Candies", difficult: 1164, status: "Accept", link: "https://atcoder.jp/contests/arc064/tasks/arc064_a" },
+      { title: "An Ordinary Game", difficult: 1814, status: "Accept", link: "https://atcoder.jp/contests/arc064/tasks/arc064_b" },
+      { title: "Cosmic Rays", difficult: 1769, status: "Accept", link: "https://atcoder.jp/contests/arc064/tasks/arc064_c" },
+      { title: "Rotated Palindromes", difficult: 2949, status: "Accept", link: "https://atcoder.jp/contests/arc064/tasks/arc064_d" },
+    ]
+  },
+  {
     title: "ABC047 & ARC063",
     value: [
       { title: "Fighting over Candies", difficult: 110, status: "Accept", link: "https://atcoder.jp/contests/abc047/tasks/abc047_a" },
