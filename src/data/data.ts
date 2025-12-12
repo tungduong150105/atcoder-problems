@@ -101,6 +101,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC049 & ARC065",
+    value: [
+      { title: "UOIAUAI", difficult: 0, status: "", link: "https://atcoder.jp/contests/abc049/tasks/abc049_a" },
+      { title: "Thin", difficult: 254, status: "Accept", link: "https://atcoder.jp/contests/abc049/tasks/abc049_b" },
+      { title: "Daydream", difficult: 930, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_a" },
+      { title: "Connectivity", difficult: 1996, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_b" },
+      { title: "Manhattan Compass", difficult: 2835, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_c" },
+      { title: "Shuffling", difficult: 2652, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_d" },
+    ]
+  },
+  {
     title: "ABC048 & ARC064",
     value: [
       { title: "AtCoder *** Contest", difficult: 54, status: "Accept", link: "https://atcoder.jp/contests/abc048/tasks/abc048_a" },
