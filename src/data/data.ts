@@ -103,10 +103,10 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC050 & ARC066",
     value: [
-      { title: "Addition and Subtraction Easy", difficult: 72, status: "", link: "https://atcoder.jp/contests/abc050/tasks/abc050_a" },
-      { title: "Contest with Drinks Easy", difficult: 235, status: "", link: "https://atcoder.jp/contests/abc050/tasks/abc050_b" },
-      { title: "Lining Up", difficult: 954, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_a" },
-      { title: "Xor Sum", difficult: 2606, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_b" },
+      { title: "Addition and Subtraction Easy", difficult: 72, status: "Accept", link: "https://atcoder.jp/contests/abc050/tasks/abc050_a" },
+      { title: "Contest with Drinks Easy", difficult: 235, status: "Accept", link: "https://atcoder.jp/contests/abc050/tasks/abc050_b" },
+      { title: "Lining Up", difficult: 954, status: "Accept", link: "https://atcoder.jp/contests/arc066/tasks/arc066_a" },
+      { title: "Xor Sum", difficult: 2606, status: "Accept", link: "https://atcoder.jp/contests/arc066/tasks/arc066_b" },
       { title: "Addition and Subtraction Hard", difficult: 2709, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_c" },
       { title: "Contest with Drinks Hard", difficult: 4000, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_d" },
     ]
@@ -114,8 +114,8 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC049 & ARC065",
     value: [
-      { title: "UOIAUAI", difficult: 0, status: "", link: "https://atcoder.jp/contests/abc049/tasks/abc049_a" },
-      { title: "Thin", difficult: 254, status: "", link: "https://atcoder.jp/contests/abc049/tasks/abc049_b" },
+      { title: "UOIAUAI", difficult: 0, status: "Accept", link: "https://atcoder.jp/contests/abc049/tasks/abc049_a" },
+      { title: "Thin", difficult: 254, status: "Accept", link: "https://atcoder.jp/contests/abc049/tasks/abc049_b" },
       { title: "Daydream", difficult: 930, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_a" },
       { title: "Connectivity", difficult: 1996, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_b" },
       { title: "Manhattan Compass", difficult: 2835, status: "Accept", link: "https://atcoder.jp/contests/arc065/tasks/arc065_c" },
@@ -198,17 +198,6 @@ export const ABC_DATA: data[] = [
       { title: "Iroha and Haiku", difficult: 2473, link: "https://atcoder.jp/contests/arc058/tasks/arc058_c", status: "Accept", tags: ['DP'] },
       { title: "Iroha Loves Strings", difficult: 3678, link: "https://atcoder.jp/contests/arc058/tasks/arc058_d" },
     ]
-  },
-  {
-    title: "AGC 002",
-    value: [
-      { title: "Range Product", difficult: 225 },
-      { title: "Box and Ball", difficult: 981 },
-      { title: "Knot Puzzle", difficult: 1570 },
-      { title: "Stamp Rally", difficult: 2514 },
-      { title: "Candy Piles", difficult: 2889 },
-      { title: "Leftmost Ball", difficult: 3399 },
-    ],
   },
 ];
 
