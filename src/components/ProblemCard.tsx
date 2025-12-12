@@ -54,7 +54,11 @@ export default function ProblemCard({ value }: ProblemProp) {
                   : `${
                       value.difficult < 3600
                         ? "linear-gradient(to right, rgb(150, 92, 44), rgb(255, 218, 189), rgb(150, 92, 44))"
-                        : "linear-gradient(to right, rgb(128, 128, 128), white, rgb(128, 128, 128))"
+                        : `${
+                            value.difficult < 4000
+                              ? "linear-gradient(to right, rgb(128, 128, 128), white, rgb(128, 128, 128))"
+                              : "linear-gradient(to right, rgb(98, 116, 142), white, rgb(29, 41, 61))"
+                          }`
                     }`
               }`,
               border: `${
@@ -63,7 +67,11 @@ export default function ProblemCard({ value }: ProblemProp) {
                   : `${
                       value.difficult < 3600
                         ? "1px solid rgb(150, 92, 44)"
-                        : "1px solid rgb(128, 128, 128)"
+                        : `${
+                            value.difficult < 4000
+                              ? "1px solid rgb(128, 128, 128)"
+                              : "1px solid rgb(29, 41, 61)"
+                          }`
                     }`
               }`,
             }}
