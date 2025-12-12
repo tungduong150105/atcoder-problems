@@ -57,7 +57,7 @@ export default function ProblemCard({ value }: ProblemProp) {
                         : `${
                             value.difficult < 4000
                               ? "linear-gradient(to right, rgb(128, 128, 128), white, rgb(128, 128, 128))"
-                              : "linear-gradient(to right, rgb(98, 116, 142), white, rgb(29, 41, 61))"
+                              : "linear-gradient(to right, rgb(225, 42, 251), white, rgb(0, 184, 219))"
                           }`
                     }`
               }`,
