@@ -107,7 +107,7 @@ export const ABC_DATA: data[] = [
       { title: "Contest with Drinks Easy", difficult: 235, status: "Accept", link: "https://atcoder.jp/contests/abc050/tasks/abc050_b" },
       { title: "Lining Up", difficult: 954, status: "Accept", link: "https://atcoder.jp/contests/arc066/tasks/arc066_a" },
       { title: "Xor Sum", difficult: 2606, status: "Accept", link: "https://atcoder.jp/contests/arc066/tasks/arc066_b" },
-      { title: "Addition and Subtraction Hard", difficult: 2709, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_c" },
+      { title: "Addition and Subtraction Hard", difficult: 2709, status: "Accept", link: "https://atcoder.jp/contests/arc066/tasks/arc066_c" },
       { title: "Contest with Drinks Hard", difficult: 4000, status: "", link: "https://atcoder.jp/contests/arc066/tasks/arc066_d" },
     ]
   },
