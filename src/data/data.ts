@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB435",
+    value: [
+      { title: "Triangular Number", difficult: 47, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_a" },
+      { title: "No-Divisible Range", difficult: 165, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_b" },
+      { title: "Domino", difficult: 313, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_c" },
+      { title: "Reachability Query 2", difficult: 768, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_d" },
+      { title: "Cover query", difficult: 1107, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_e" },
+      { title: "Cat exercise", difficult: 1445, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_f" },
+      { title: "Domino Arrangement", difficult: 2496, status: "", link: "https://atcoder.jp/contests/abc435/tasks/abc435_g" },
+    ]
+  },
+  {
     title: "AB433",
     value: [
       { title: "Happy Birthday! 4", difficult: 43, status: "Accept", link: "https://atcoder.jp/contests/abc433/tasks/abc433_a" },
