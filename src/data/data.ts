@@ -4,13 +4,13 @@ export const ABC_DATA: data[] = [
   {
     title: "AB436",
     value: [
-      { title: "o-padding", difficult: 47, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_a" },
-      { title: "Magic Square", difficult: 170, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_b" },
-      { title: "2x2 Placing", difficult: 445, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_c" },
-      { title: "Teleport Maze", difficult: 813, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_d" },
-      { title: "Teleport Maze", difficult: 1090, status: "", link: "https://atcoder.jp/contests/abc435/tasks/abc435_e" },
-      { title: "Starry Landscape Photo", difficult: 1415, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_f" },
-      { title: "Linear Inequation", difficult: 2128, status: "Accept", link: "https://atcoder.jp/contests/abc435/tasks/abc435_g" },
+      { title: "o-padding", difficult: 47, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_a" },
+      { title: "Magic Square", difficult: 170, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_b" },
+      { title: "2x2 Placing", difficult: 445, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_c" },
+      { title: "Teleport Maze", difficult: 813, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_d" },
+      { title: "Teleport Maze", difficult: 1090, status: "", link: "https://atcoder.jp/contests/abc436/tasks/abc436_e" },
+      { title: "Starry Landscape Photo", difficult: 1415, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_f" },
+      { title: "Linear Inequation", difficult: 2128, status: "Accept", link: "https://atcoder.jp/contests/abc436/tasks/abc436_g" },
     ]
   },
   {
