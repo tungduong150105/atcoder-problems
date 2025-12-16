@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB431",
+    value: [
+      { title: "Robot Balance", difficult: 10, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_a" },
+      { title: "Robot Weight", difficult: 36, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_b" },
+      { title: "Robot Factory", difficult: 172, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_c" },
+      { title: "Robot Customize", difficult: 693, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_d" },
+      { title: "Reflection on Grid", difficult: 1424, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_e" },
+      { title: "Almost Sorted 2", difficult: 1613, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_f" },
+      { title: "One Time Swap 2", difficult: 2490, status: "", link: "https://atcoder.jp/contests/abc431/tasks/abc431_g" },
+    ]
+  },
+  {
     title: "AB430",
     value: [
       { title: "Candy Cookie Law", difficult: 18, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_a" },
