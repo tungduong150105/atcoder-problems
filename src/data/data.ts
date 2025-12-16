@@ -101,6 +101,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC052 & ARC067",
+    value: [
+      { title: "Two Rectangles", difficult: 33, status: "Accept", link: "https://atcoder.jp/contests/abc052/tasks/abc052_a" },
+      { title: "Increment Decrement", difficult: 156, status: "Accept", link: "https://atcoder.jp/contests/abc052/tasks/abc052_b" },
+      { title: "Factors of Factorial", difficult: 967, status: "Accept", link: "https://atcoder.jp/contests/arc067/tasks/arc067_a" },
+      { title: "Walk and Teleport", difficult: 1060, status: "Accept", link: "https://atcoder.jp/contests/arc067/tasks/arc067_b" },
+      { title: "Grouping", difficult: 2190, status: "Accept", link: "https://atcoder.jp/contests/arc067/tasks/arc067_c" },
+      { title: "Yakiniku Restaurants", difficult: 2729, status: "Accept", link: "https://atcoder.jp/contests/arc067/tasks/arc067_d" },
+    ]
+  },
+  {
     title: "ABC051",
     value: [
       { title: "Haiku", difficult: 60, status: "Accept", link: "https://atcoder.jp/contests/abc051/tasks/abc051_a" },
