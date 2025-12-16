@@ -2,6 +2,19 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "ABC213",
+    value: [
+      { title: "Bitwise Exclusive Or", difficult: 33, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_a" },
+      { title: "Booby Prize", difficult: 26, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_b" },
+      { title: "Reorder Cards", difficult: 481, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_c" },
+      { title: "Takahashi Tour", difficult: 710, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_d" },
+      { title: "Stronger Takahashi", difficult: 1423, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_e" },
+      { title: "Common Prefixes", difficult: 2215, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_f" },
+      { title: "Connectivity 2", difficult: 2663, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_g" },
+      { title: "Connectivity 2", difficult: 2806, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_h" },
+    ]
+  },
+  {
     title: "ABC212",
     value: [
       { title: "Alloy", difficult: 5, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_a" },
