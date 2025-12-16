@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB429",
+    value: [
+      { title: "Too Many Requests", difficult: 10, status: "Accept", link: "https://atcoder.jp/contests/abc429/tasks/abc429_a" },
+      { title: "N - 1", difficult: 24, status: "Accept", link: "https://atcoder.jp/contests/abc429/tasks/abc429_b" },
+      { title: "Odd One Subsequence", difficult: 201, status: "Accept", link: "https://atcoder.jp/contests/abc429/tasks/abc429_c" },
+      { title: "On AtCoder Conference", difficult: 903, status: "Accept", link: "https://atcoder.jp/contests/abc429/tasks/abc429_d" },
+      { title: "Hit and Away", difficult: 1313, status: "Wrong", link: "https://atcoder.jp/contests/abc429/tasks/abc429_e" },
+      { title: "Shortest Path Query", difficult: 1859, status: "", link: "https://atcoder.jp/contests/abc429/tasks/abc429_f" },
+      { title: "Sum of Pow of Mod of Linear", difficult: 3295, status: "", link: "https://atcoder.jp/contests/abc429/tasks/abc429_g" },
+    ]
+  },
+  {
     title: "AB428",
     value: [
       { title: "Grandma's Footsteps", difficult: 23, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_a" },
