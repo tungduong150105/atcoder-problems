@@ -43,7 +43,7 @@ export default function ProblemCard({ value }: ProblemProp) {
         className="w-full h-[50px] flex items-center justify-center"
         style={{
           background: `${value.status == "Accept" ? "#c3e6cb" : ""} ${
-            value.status == "Wrong" ? "#f94449" : ""
+            value.status == "Wrong" ? "#ffeeba" : ""
           }`,
         }}
       >
