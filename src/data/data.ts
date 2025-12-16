@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB430",
+    value: [
+      { title: "Candy Cookie Law", difficult: 18, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_a" },
+      { title: "Count Subgrid", difficult: 141, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_b" },
+      { title: "Truck Driver", difficult: 750, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_c" },
+      { title: "Neighbor Distance", difficult: 982, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_d" },
+      { title: "Shift String", difficult: 1109, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_e" },
+      { title: "Back and Forth Filling", difficult: 1615, status: "Accept", link: "https://atcoder.jp/contests/abc430/tasks/abc430_f" },
+      { title: "Range Set Modifying Query", difficult: 2371, status: "", link: "https://atcoder.jp/contests/abc430/tasks/abc430_g" },
+    ]
+  },
+  {
     title: "AB429",
     value: [
       { title: "Too Many Requests", difficult: 10, status: "Accept", link: "https://atcoder.jp/contests/abc429/tasks/abc429_a" },
