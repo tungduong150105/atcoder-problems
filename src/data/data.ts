@@ -2,6 +2,17 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "ABC211",
+    value: [
+      { title: "Blood Pressure", difficult: 6, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_a" },
+      { title: "Cycle Hit", difficult: 17, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_b" },
+      { title: "chokudai", difficult: 559, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_c" },
+      { title: "Number of Shortest paths", difficult: 755, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_d" },
+      { title: "Red Polyomino", difficult: 1823, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_e" },
+      { title: "Rectilinear Polygons", difficult: 2350, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_f" },
+    ]
+  },
+  {
     title: "ABC210",
     value: [
       { title: "Cabbages", difficult: 19, status: "Accept", link: "https://atcoder.jp/contests/abc210/tasks/abc210_a" },
