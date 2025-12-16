@@ -308,6 +308,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC053 & ARC068",
+    value: [
+      { title: "ABC/ARC", difficult: 41, status: "Accept", link: "https://atcoder.jp/contests/abc053/tasks/abc053_a" },
+      { title: "A to Z String", difficult: 164, status: "Accept", link: "https://atcoder.jp/contests/abc053/tasks/abc053_b" },
+      { title: "X: Yet Another Die Game", difficult: 745, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_a" },
+      { title: "Card Eater", difficult: 1084, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_b" },
+      { title: "Snuke Line", difficult: 2307, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_c" },
+      { title: "Solitaire", difficult: 3042, status: "", link: "https://atcoder.jp/contests/arc068/tasks/arc068_d" },
+    ]
+  },
+  {
     title: "ABC052 & ARC067",
     value: [
       { title: "Two Rectangles", difficult: 33, status: "Accept", link: "https://atcoder.jp/contests/abc052/tasks/abc052_a" },
