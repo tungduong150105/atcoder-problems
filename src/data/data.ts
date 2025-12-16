@@ -2,6 +2,19 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "ABC212",
+    value: [
+      { title: "Alloy", difficult: 5, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_a" },
+      { title: "Weak Password", difficult: 64, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_b" },
+      { title: "Min Difference", difficult: 246, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_c" },
+      { title: "Querying Multiset", difficult: 775, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_d" },
+      { title: "Safety Journey", difficult: 1410, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_e" },
+      { title: "Greedy Takahashi", difficult: 2332, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_f" },
+      { title: "Power Pair", difficult: 2150, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_g" },
+      { title: "Nim Counting", difficult: 2741, status: "Accept", link: "https://atcoder.jp/contests/abc212/tasks/abc212_h" },
+    ]
+  },
+  {
     title: "ABC211",
     value: [
       { title: "Blood Pressure", difficult: 6, status: "Accept", link: "https://atcoder.jp/contests/abc211/tasks/abc211_a" },
