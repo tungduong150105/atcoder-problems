@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB428",
+    value: [
+      { title: "Grandma's Footsteps", difficult: 23, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_a" },
+      { title: "Most Frequent Substrings", difficult: 118, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_b" },
+      { title: "Brackets Stack Query", difficult: 483, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_c" },
+      { title: "183184", difficult: 1239, status: "", link: "https://atcoder.jp/contests/abc428/tasks/abc428_d" },
+      { title: "Farthest Vertex", difficult: 1164, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_e" },
+      { title: "Pyramid Alignment", difficult: 2073, status: "Accept", link: "https://atcoder.jp/contests/abc428/tasks/abc428_f" },
+      { title: "Necklace", difficult: 2472, status: "", link: "https://atcoder.jp/contests/abc428/tasks/abc428_g" },
+    ]
+  },
+  {
     title: "ABC217",
     value: [
       { title: "Lexicographic Order", difficult: 21, status: "Accept", link: "https://atcoder.jp/contests/abc217/tasks/abc217_a" },
