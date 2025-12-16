@@ -2,6 +2,18 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "AB432",
+    value: [
+      { title: "Permute to Maximize", difficult: 12, status: "Accept", link: "https://atcoder.jp/contests/abc432/tasks/abc432_a" },
+      { title: "Permute to Minimize", difficult: 48, status: "Accept", link: "https://atcoder.jp/contests/abc432/tasks/abc432_b" },
+      { title: "Candy Tribulation", difficult: 654, status: "", link: "https://atcoder.jp/contests/abc432/tasks/abc432_c" },
+      { title: "Suddenly, A Tempest", difficult: 1745, status: "", link: "https://atcoder.jp/contests/abc432/tasks/abc432_d" },
+      { title: "Clamp", difficult: 1133, status: "Accept", link: "https://atcoder.jp/contests/abc432/tasks/abc432_e" },
+      { title: "Candy Redistribution", difficult: 2273, status: "", link: "https://atcoder.jp/contests/abc432/tasks/abc432_f" },
+      { title: "Sum of Binom(A, B)", difficult: 1984, status: "Accept", link: "https://atcoder.jp/contests/abc432/tasks/abc432_g" },
+    ]
+  },
+  {
     title: "AB431",
     value: [
       { title: "Robot Balance", difficult: 10, status: "Accept", link: "https://atcoder.jp/contests/abc431/tasks/abc431_a" },
