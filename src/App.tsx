@@ -11,13 +11,13 @@ function App() {
       <div className="w-full bg-gray-100 p-5">
         <div className="flex flex-row items-center justify-between">
           <div className="text-2xl font-light mb-5">AtCoder Note</div>
-          <div className="text-xl font-light text-orange-500">
+          <div className="text-xl font-normal text-red-500">
             <img
               src="https://img.atcoder.jp/assets/icon/crown_bronze.png"
               alt="bronze crown"
               className="inline-block w-6 h-6 mr-2 mb-1"
             />
-            snuke159  
+            <span className="text-black">s</span>nuke159
           </div>
         </div>
         <div className="pb-5">

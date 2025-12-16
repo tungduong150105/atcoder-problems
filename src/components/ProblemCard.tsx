@@ -5,6 +5,15 @@ interface ProblemProp {
 }
 
 export default function ProblemCard({ value }: ProblemProp) {
+
+  if (!value.title) {
+    return (
+      <>
+        <div className="w-full h-[50px] flex items-center justify-center"></div>
+      </>
+    );
+  }
+
   function getColor(rating: number) {
     if (rating < 400) return "#808080";
     if (rating < 800) return "#804000";
