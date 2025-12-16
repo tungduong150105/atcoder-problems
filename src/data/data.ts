@@ -2,6 +2,19 @@ import type { data } from "../types/problem";
 
 export const ABC_DATA: data[] = [
   {
+    title: "ABC214",
+    value: [
+      { title: "New Generation ABC", difficult: 4, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_a" },
+      { title: "How many?", difficult: 53, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_b" },
+      { title: "Distribution", difficult: 319, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_c" },
+      { title: "Sum of Maximum Weights", difficult: 1341, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_d" },
+      { title: "Packing Under Range Regulations", difficult: 1835, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_e" },
+      { title: "Substrings", difficult: 1973, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_f" },
+      { title: "Three Permutations", difficult: 2893, status: "Accept", link: "https://atcoder.jp/contests/abc214/tasks/abc214_g" },
+      { title: "Collecting", difficult: 3138, status: "", link: "https://atcoder.jp/contests/abc214/tasks/abc214_h" },
+    ]
+  },
+  {
     title: "ABC213",
     value: [
       { title: "Bitwise Exclusive Or", difficult: 33, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_a" },
@@ -11,7 +24,7 @@ export const ABC_DATA: data[] = [
       { title: "Stronger Takahashi", difficult: 1423, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_e" },
       { title: "Common Prefixes", difficult: 2215, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_f" },
       { title: "Connectivity 2", difficult: 2663, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_g" },
-      { title: "Connectivity 2", difficult: 2806, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_h" },
+      { title: "Stroll", difficult: 2806, status: "Accept", link: "https://atcoder.jp/contests/abc213/tasks/abc213_h" },
     ]
   },
   {
