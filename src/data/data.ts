@@ -101,6 +101,15 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC051",
+    value: [
+      { title: "Haiku", difficult: 60, status: "Accept", link: "https://atcoder.jp/contests/abc051/tasks/abc051_a" },
+      { title: "Sum of Three Integers", difficult: 784, status: "Accept", link: "https://atcoder.jp/contests/abc051/tasks/abc051_b" },
+      { title: "Back and Forth", difficult: 968, status: "Accept", link: "https://atcoder.jp/contests/abc051/tasks/abc051_c" },
+      { title: "Candidates of No Shortest Paths", difficult: 1566, status: "Accept", link: "https://atcoder.jp/contests/abc051/tasks/abc051_d" },
+    ]
+  },
+  {
     title: "ABC050 & ARC066",
     value: [
       { title: "Addition and Subtraction Easy", difficult: 72, status: "Accept", link: "https://atcoder.jp/contests/abc050/tasks/abc050_a" },
