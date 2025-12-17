@@ -308,6 +308,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC055 & ARC069",
+    value: [
+      { title: "Restaurant", difficult: 23, status: "", link: "https://atcoder.jp/contests/abc055/tasks/abc055_a" },
+      { title: "Training Camp", difficult: 332, status: "", link: "https://atcoder.jp/contests/abc055/tasks/abc055_b" },
+      { title: "Scc Puzzle", difficult: 561, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_a" },
+      { title: "Menagerie", difficult: 1344, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_b" },
+      { title: "Frequency", difficult: 1835, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_c" },
+      { title: "Flags", difficult: 3200, status: "Wrong", link: "https://atcoder.jp/contests/arc069/tasks/arc069_d" },
+    ]
+  },
+  {
     title: "ABC053 & ARC068",
     value: [
       { title: "ABC/ARC", difficult: 41, status: "Accept", link: "https://atcoder.jp/contests/abc053/tasks/abc053_a" },
@@ -315,7 +326,7 @@ export const ABC_DATA: data[] = [
       { title: "X: Yet Another Die Game", difficult: 745, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_a" },
       { title: "Card Eater", difficult: 1084, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_b" },
       { title: "Snuke Line", difficult: 2307, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_c" },
-      { title: "Solitaire", difficult: 3042, status: "", link: "https://atcoder.jp/contests/arc068/tasks/arc068_d" },
+      { title: "Solitaire", difficult: 3042, status: "Wrong", link: "https://atcoder.jp/contests/arc068/tasks/arc068_d" },
     ]
   },
   {
