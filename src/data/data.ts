@@ -321,10 +321,10 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC054",
     value: [
-      { title: "One Card Poker", difficult: 103, status: "", link: "https://atcoder.jp/contests/abc054/tasks/abc054_a" },
-      { title: "Template Matching", difficult: 893, status: "", link: "https://atcoder.jp/contests/abc054/tasks/abc054_b" },
-      { title: "One-stroke Path", difficult: 1244, status: "", link: "https://atcoder.jp/contests/abc054/tasks/abc054_c" },
-      { title: "Mixing Experiment", difficult: 1655, status: "", link: "https://atcoder.jp/contests/abc054/tasks/abc054_d" },
+      { title: "One Card Poker", difficult: 103, status: "Accept", link: "https://atcoder.jp/contests/abc054/tasks/abc054_a" },
+      { title: "Template Matching", difficult: 893, status: "Accept", link: "https://atcoder.jp/contests/abc054/tasks/abc054_b" },
+      { title: "One-stroke Path", difficult: 1244, status: "Accept", link: "https://atcoder.jp/contests/abc054/tasks/abc054_c" },
+      { title: "Mixing Experiment", difficult: 1655, status: "Accept", link: "https://atcoder.jp/contests/abc054/tasks/abc054_d" },
     ]
   },
   {
