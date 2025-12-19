@@ -308,6 +308,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC056 & ARC070",
+    value: [
+      { title: "HonestOrDishonest", difficult: 58, status: "", link: "https://atcoder.jp/contests/abc056/tasks/abc056_a" },
+      { title: "NarrowRectanglesEasy", difficult: 117, status: "", link: "https://atcoder.jp/contests/abc056/tasks/abc056_b" },
+      { title: "Go Home", difficult: 731, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_a" },
+      { title: "No Need", difficult: 2015, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_b" },
+      { title: "NarrowRectangles", difficult: 3365, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_c" },
+      { title: "HonestOrUnkind", difficult: 3365, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_d" },
+    ]
+  },
+  {
     title: "ABC055 & ARC069",
     value: [
       { title: "Restaurant", difficult: 23, status: "Accept", link: "https://atcoder.jp/contests/abc055/tasks/abc055_a" },
