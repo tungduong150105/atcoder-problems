@@ -310,11 +310,11 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC055 & ARC069",
     value: [
-      { title: "Restaurant", difficult: 23, status: "", link: "https://atcoder.jp/contests/abc055/tasks/abc055_a" },
-      { title: "Training Camp", difficult: 332, status: "", link: "https://atcoder.jp/contests/abc055/tasks/abc055_b" },
-      { title: "Scc Puzzle", difficult: 561, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_a" },
-      { title: "Menagerie", difficult: 1344, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_b" },
-      { title: "Frequency", difficult: 1835, status: "", link: "https://atcoder.jp/contests/arc069/tasks/arc069_c" },
+      { title: "Restaurant", difficult: 23, status: "Accept", link: "https://atcoder.jp/contests/abc055/tasks/abc055_a" },
+      { title: "Training Camp", difficult: 332, status: "Accept", link: "https://atcoder.jp/contests/abc055/tasks/abc055_b" },
+      { title: "Scc Puzzle", difficult: 561, status: "Accept", link: "https://atcoder.jp/contests/arc069/tasks/arc069_a" },
+      { title: "Menagerie", difficult: 1344, status: "Accept", link: "https://atcoder.jp/contests/arc069/tasks/arc069_b" },
+      { title: "Frequency", difficult: 1835, status: "Accept", link: "https://atcoder.jp/contests/arc069/tasks/arc069_c" },
       { title: "Flags", difficult: 3200, status: "Accept", link: "https://atcoder.jp/contests/arc069/tasks/arc069_d" },
     ]
   },
