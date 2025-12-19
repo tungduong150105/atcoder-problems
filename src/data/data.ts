@@ -211,9 +211,9 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC208",
     value: [
-      { title: "Rolling Dice", difficult: 28, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_a" },
-      { title: "Factorial Yen Coin", difficult: 51, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_b" },
-      { title: "Fair Candy Distribution", difficult: 142, status: "", link: "https://atcoder.jp/contests/abc208/tasks/abc208_c" },
+      { title: "Rolling Dice", difficult: 28, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_a" },
+      { title: "Factorial Yen Coin", difficult: 51, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_b" },
+      { title: "Fair Candy Distribution", difficult: 142, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_c" },
       { title: "Shortest Path Queries 2", difficult: 1190, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_d" },
       { title: "Digit Products", difficult: 2024, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_e" },
       { title: "Cumulative Sum", difficult: 2772, status: "Accept", link: "https://atcoder.jp/contests/abc208/tasks/abc208_f" },
@@ -222,9 +222,9 @@ export const ABC_DATA: data[] = [
   {
     title: "ABC207",
     value: [
-      { title: "Repression", difficult: 6, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_a" },
-      { title: "Hydrate", difficult: 98, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_b" },
-      { title: "Many Segments", difficult: 397, status: "", link: "https://atcoder.jp/contests/abc207/tasks/abc207_c" },
+      { title: "Repression", difficult: 6, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_a" },
+      { title: "Hydrate", difficult: 98, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_b" },
+      { title: "Many Segments", difficult: 397, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_c" },
       { title: "Congruence Points", difficult: 2074, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_d" },
       { title: "Mod i", difficult: 1820, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_e" },
       { title: "Tree Patrolling", difficult: 2398, status: "Accept", link: "https://atcoder.jp/contests/abc207/tasks/abc207_f" },
@@ -335,7 +335,7 @@ export const ABC_DATA: data[] = [
       { title: "X: Yet Another Die Game", difficult: 745, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_a" },
       { title: "Card Eater", difficult: 1084, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_b" },
       { title: "Snuke Line", difficult: 2307, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_c" },
-      { title: "Solitaire", difficult: 3042, status: "Wrong", link: "https://atcoder.jp/contests/arc068/tasks/arc068_d" },
+      { title: "Solitaire", difficult: 3042, status: "Accept", link: "https://atcoder.jp/contests/arc068/tasks/arc068_d" },
     ]
   },
   {
