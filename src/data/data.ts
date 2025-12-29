@@ -314,7 +314,7 @@ export const ABC_DATA: data[] = [
       { title: "NarrowRectanglesEasy", difficult: 117, status: "", link: "https://atcoder.jp/contests/abc056/tasks/abc056_b" },
       { title: "Go Home", difficult: 731, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_a" },
       { title: "No Need", difficult: 2015, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_b" },
-      { title: "NarrowRectangles", difficult: 3365, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_c" },
+      { title: "NarrowRectangles", difficult: 3365, status: "Accept", link: "https://atcoder.jp/contests/arc070/tasks/arc070_c" },
       { title: "HonestOrUnkind", difficult: 3365, status: "", link: "https://atcoder.jp/contests/arc070/tasks/arc070_d" },
     ]
   },
