@@ -308,6 +308,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC058 & ARC071",
+    value: [
+      { title: "ι⊥l", difficult: 45, status: "", link: "https://atcoder.jp/contests/abc058/tasks/abc058_a" },
+      { title: "∵∴∵", difficult: 217, status: "", link: "https://atcoder.jp/contests/abc058/tasks/abc058_b" },
+      { title: "Dubious Document", difficult: 680, status: "", link: "https://atcoder.jp/contests/arc071/tasks/arc071_a" },
+      { title: "###", difficult: 1641, status: "", link: "https://atcoder.jp/contests/arc071/tasks/arc071_b" },
+      { title: "TrBBnsformBBtion", difficult: 1739, status: "", link: "https://atcoder.jp/contests/arc071/tasks/arc071_c" },
+      { title: "Infinite Sequence", difficult: 2336, status: "Accept", link: "https://atcoder.jp/contests/arc071/tasks/arc071_d" },
+    ]
+  },
+  {
     title: "ABC056 & ARC070",
     value: [
       { title: "HonestOrDishonest", difficult: 58, status: "Accept", link: "https://atcoder.jp/contests/abc056/tasks/abc056_a" },
