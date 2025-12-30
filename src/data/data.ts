@@ -319,6 +319,15 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC057",
+    value: [
+      { title: "Remaining Time", difficult: 21, status: "", link: "https://atcoder.jp/contests/abc057/tasks/abc057_a" },
+      { title: "Checkpoints", difficult: 434, status: "", link: "https://atcoder.jp/contests/abc057/tasks/abc057_b" },
+      { title: "Digits in Multiplication", difficult: 904, status: "", link: "https://atcoder.jp/contests/abc057/tasks/abc057_c" },
+      { title: "Maximum Average Sets", difficult: 1658, status: "", link: "https://atcoder.jp/contests/abc057/tasks/abc057_d" }
+    ]
+  },
+  {
     title: "ABC056 & ARC070",
     value: [
       { title: "HonestOrDishonest", difficult: 58, status: "Accept", link: "https://atcoder.jp/contests/abc056/tasks/abc056_a" },
