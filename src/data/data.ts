@@ -314,7 +314,7 @@ export const ABC_DATA: data[] = [
       { title: "∵∴∵", difficult: 217, status: "Accept", link: "https://atcoder.jp/contests/abc058/tasks/abc058_b" },
       { title: "Dubious Document", difficult: 680, status: "Accept", link: "https://atcoder.jp/contests/arc071/tasks/arc071_a" },
       { title: "###", difficult: 1641, status: "Accept", link: "https://atcoder.jp/contests/arc071/tasks/arc071_b" },
-      { title: "TrBBnsformBBtion", difficult: 1739, status: "", link: "https://atcoder.jp/contests/arc071/tasks/arc071_c" },
+      { title: "TrBBnsformBBtion", difficult: 1739, status: "Accept", link: "https://atcoder.jp/contests/arc071/tasks/arc071_c" },
       { title: "Infinite Sequence", difficult: 2336, status: "Accept", link: "https://atcoder.jp/contests/arc071/tasks/arc071_d" },
     ]
   },
