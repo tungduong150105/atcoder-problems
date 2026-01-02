@@ -43,7 +43,7 @@ export default function ListProblems({ problems }: ProblemsProps) {
             className="col-span-1 border-[0.5px] border-gray-400"
             key={index}
           >
-            <ProblemCard value={problem} />
+            <ProblemCard value={problem} idx={index}/>
           </div>
         ))}
       </div>

@@ -4,11 +4,11 @@ import ListProblems from "./components/ListProblems";
 import { ABC_DATA, ARC_DATA } from "./data/data";
 
 function App() {
-  const [cuerrentContest, setCurrentContest] = useState<string>("ABC");
+  const [currentContest, setCurrentContest] = useState<string>("ABC");
   
   return (
     <>
-      <div className="w-full bg-gray-100 p-5">
+      <div className="w-full bg-gray-100 px-20">
         <div className="flex flex-row items-center justify-between">
           <div className="text-2xl font-light mb-5">AtCoder Note</div>
           <div className="text-xl font-normal text-orange-400">
@@ -23,7 +23,7 @@ function App() {
         <div className="pb-5">
           <button
             className={`px-4 py-2 mr-2 rounded ${
-              cuerrentContest === "ABC"
+              currentContest === "ABC"
                 ? "bg-blue-500 text-white"
                 : "bg-white text-blue-500 border border-blue-500"
             }`}
@@ -33,7 +33,7 @@ function App() {
           </button>
           <button
             className={`px-4 py-2 rounded ${
-              cuerrentContest === "ARC"
+              currentContest === "ARC"
                 ? "bg-blue-500 text-white"
                 : "bg-white text-blue-500 border border-blue-500"
             }`}
@@ -43,7 +43,7 @@ function App() {
           </button>
         </div>
         <div className="flex flex-col items-center min-h-screen">
-          {cuerrentContest === "ABC" ? ABC_DATA?.map((value, index) => (
+          {currentContest === "ABC" ? ABC_DATA?.map((value, index) => (
             <ListProblems problems={value} key={index} />
           )) : ARC_DATA?.map((value, index) => (
             <ListProblems problems={value} key={index} />

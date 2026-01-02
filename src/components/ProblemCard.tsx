@@ -2,9 +2,10 @@ import type { Problem } from "../types/problem";
 
 interface ProblemProp {
   value: Problem;
+  idx: number;
 }
 
-export default function ProblemCard({ value }: ProblemProp) {
+export default function ProblemCard({ value, idx }: ProblemProp) {
 
   if (!value.title) {
     return (
@@ -93,7 +94,7 @@ export default function ProblemCard({ value }: ProblemProp) {
           target={value.link ? "_blank" : undefined}
           rel={value.link ? "noopener noreferrer" : undefined}
         >
-          {value.title}
+            {String.fromCharCode(idx + 'A'.charCodeAt(0))}. {value.title}
         </a>
       </div>
     </>
