@@ -308,6 +308,17 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC060 & ARC073",
+    value: [
+      { title: "Shiritori", difficult: 57, status: "", link: "https://atcoder.jp/contests/abc060/tasks/abc060_a" },
+      { title: "Choose Integers", difficult: 503, status: "", link: "https://atcoder.jp/contests/abc060/tasks/abc060_b" },
+      { title: "Sentou", difficult: 512, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_a" },
+      { title: "Simple Knapsack", difficult: 1477, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_b" },
+      { title: "Ball Coloring", difficult: 2434, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_c" },
+      { title: "Many Moves", difficult: 2867, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_d" },
+    ]
+  },
+  {
     title: "ABC058 & ARC071",
     value: [
       { title: "ι⊥l", difficult: 45, status: "Accept", link: "https://atcoder.jp/contests/abc058/tasks/abc058_a" },
