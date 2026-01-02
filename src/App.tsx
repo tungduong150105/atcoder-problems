@@ -1,14 +1,14 @@
 import { useState } from "react";
 import "./App.css";
 import ListProblems from "./components/ListProblems";
-import { ABC_DATA, ARC_DATA } from "./data/data";
+import { ABC_DATA, ARC_DATA, AGC_DATA } from "./data/data";
 
 function App() {
   const [currentContest, setCurrentContest] = useState<string>("ABC");
   
   return (
     <>
-      <div className="w-full bg-gray-100 px-20">
+      <div className="w-full bg-gray-100 p-5">
         <div className="flex flex-row items-center justify-between">
           <div className="text-2xl font-light mb-5">AtCoder Note</div>
           <div className="text-xl font-normal text-orange-400">
@@ -32,7 +32,7 @@ function App() {
             ABC
           </button>
           <button
-            className={`px-4 py-2 rounded ${
+            className={`px-4 py-2 mr-2 rounded ${
               currentContest === "ARC"
                 ? "bg-blue-500 text-white"
                 : "bg-white text-blue-500 border border-blue-500"
@@ -41,12 +41,26 @@ function App() {
           >
             ARC
           </button>
+          <button
+              className={`px-4 py-2 rounded ${
+                  currentContest === "AGC"
+                      ? "bg-blue-500 text-white"
+                      : "bg-white text-blue-500 border border-blue-500"
+              }`}
+              onClick={() => setCurrentContest("AGC")}
+          >
+            AGC
+          </button>
         </div>
         <div className="flex flex-col items-center min-h-screen">
-          {currentContest === "ABC" ? ABC_DATA?.map((value, index) => (
+          {currentContest === "ABC" && ABC_DATA?.map((value, index) => (
             <ListProblems problems={value} key={index} />
-          )) : ARC_DATA?.map((value, index) => (
-            <ListProblems problems={value} key={index} />
+          ))}
+          {currentContest === "ARC" && ARC_DATA?.map((value, index) => (
+              <ListProblems problems={value} key={index} />
+          ))}
+          {currentContest === "AGC" && AGC_DATA?.map((value, index) => (
+              <ListProblems problems={value} key={index} />
           ))}
         </div>
       </div>

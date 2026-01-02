@@ -514,3 +514,50 @@ export const ARC_DATA: data[] = [
     ]
   },
 ]
+
+export const AGC_DATA: data[] = [
+  {
+    title: "AGC005",
+    value: [
+      { title: "STring", difficult: 1058, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_a" },
+      { title: "Minimum Sum", difficult: 1828, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_b" },
+      { title: "Tree Restoring", difficult: 1976, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_c" },
+      { title: "~K Perm Counting", difficult: 2946, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_d" },
+      { title: "Sugigma: The Showdown", difficult: 3276, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_e" },
+      { title: "Many Easy Problems", difficult: 3440, status: "", link: "https://atcoder.jp/contests/agc005/tasks/agc005_f" },
+    ]
+  },
+  {
+    title: "AGC004",
+    value: [
+      { title: "Divide a Cuboid", difficult: 558, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_a" },
+      { title: "Colorful Slimes", difficult: 1871, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_b" },
+      { title: "AND Grid", difficult: 2367, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_c" },
+      { title: "Teleporter", difficult: 2346, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_d" },
+      { title: "Salvage Robots", difficult: 3205, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_e" },
+      { title: "Namori", difficult: 3986, status: "", link: "https://atcoder.jp/contests/agc004/tasks/agc004_f" },
+    ]
+  },
+  {
+    title: "AGC003",
+    value: [
+      { title: "Wanna go back home", difficult: 436, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc003_a" },
+      { title: "Simplified mahjong", difficult: 1234, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc003_b" },
+      { title: "BBuBBBlesort!", difficult: 1541, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc003_c" },
+      { title: "Anticube", difficult: 2608, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc002_d" },
+      { title: "Sequential operations on Sequence", difficult: 2983, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc003_e" },
+      { title: "Fraction of Fractal", difficult: 3344, status: "", link: "https://atcoder.jp/contests/agc003/tasks/agc003_f" },
+    ]
+  },
+  {
+    title: "AGC002",
+    value: [
+      { title: "Range Product", difficult: 225, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_a" },
+      { title: "Box and Ball", difficult: 981, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_b" },
+      { title: "Knot Puzzle", difficult: 1570, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_c" },
+      { title: "Stamp Rally", difficult: 2514, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_d" },
+      { title: "Candy Piles", difficult: 2889, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_e" },
+      { title: "Leftmost Ball", difficult: 3399, status: "", link: "https://atcoder.jp/contests/agc002/tasks/agc002_f" },
+    ]
+  },
+]
