@@ -308,14 +308,36 @@ export const ABC_DATA: data[] = [
     ]
   },
   {
+    title: "ABC062 & ARC074",
+    value: [
+      { title: "Grouping", difficult: 77, status: "Accept", link: "https://atcoder.jp/contests/abc062/tasks/abc062_a" },
+      { title: "Picture Frame", difficult: 188, status: "Accept", link: "https://atcoder.jp/contests/abc062/tasks/abc062_b" },
+      { title: "Chocolate Bar", difficult: 1223, status: "Accept", link: "https://atcoder.jp/contests/arc074/tasks/arc074_a" },
+      { title: "3N Numbers", difficult: 1730, status: "Accept", link: "https://atcoder.jp/contests/arc074/tasks/arc074_b" },
+      { title: "RGB Sequence", difficult: 2519, status: "Accept", link: "https://atcoder.jp/contests/arc074/tasks/arc074_c" },
+      { title: "Lotus Leaves", difficult: 2280, status: "Accept", link: "https://atcoder.jp/contests/arc074/tasks/arc074_d" },
+    ]
+  },
+  {
     title: "ABC060 & ARC073",
     value: [
       { title: "Shiritori", difficult: 57, status: "", link: "https://atcoder.jp/contests/abc060/tasks/abc060_a" },
       { title: "Choose Integers", difficult: 503, status: "", link: "https://atcoder.jp/contests/abc060/tasks/abc060_b" },
       { title: "Sentou", difficult: 512, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_a" },
       { title: "Simple Knapsack", difficult: 1477, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_b" },
-      { title: "Ball Coloring", difficult: 2434, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_c" },
+      { title: "Ball Coloring", difficult: 2434, status: "Wrong", link: "https://atcoder.jp/contests/arc073/tasks/arc073_c" },
       { title: "Many Moves", difficult: 2867, status: "", link: "https://atcoder.jp/contests/arc073/tasks/arc073_d" },
+    ]
+  },
+  {
+    title: "ABC059 & ARC072",
+    value: [
+      { title: "Three-letter acronym", difficult: 77, status: "", link: "https://atcoder.jp/contests/abc059/tasks/abc059_a" },
+      { title: "Comparison", difficult: 218, status: "", link: "https://atcoder.jp/contests/abc059/tasks/abc059_b" },
+      { title: "Sequence", difficult: 1409, status: "", link: "https://atcoder.jp/contests/arc072/tasks/arc072_a" },
+      { title: "Alice&Brown", difficult: 1749, status: "", link: "https://atcoder.jp/contests/arc072/tasks/arc072_b" },
+      { title: "Alice in linear land", difficult: 2655, status: "Wrong", link: "https://atcoder.jp/contests/arc072/tasks/arc072_c" },
+      { title: "Dam", difficult: 3414, status: "", link: "https://atcoder.jp/contests/arc072/tasks/arc072_d" },
     ]
   },
   {
